@@ -1,16 +1,29 @@
-## Hi there 👋
+## Sohom Mukherjee
 
-<!--
-**SohomMukherjee09/SohomMukherjee09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | B.Tech CSE (IoT, Cyber Security & Blockchain)  
+Heritage Institute of Technology, Kolkata  
 
-Here are some ideas to get you started:
+Building scalable web applications and AI-powered solutions with a focus on performance, clean architecture, and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+- Languages: C++, Java, JavaScript, SQL  
+- Frontend: React.js, HTML, CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB, Supabase  
+- Tools: Git, GitHub, Postman, Netlify, Render  
+
+---
+### Experience
+
+**Full Stack Developer Intern – Gaialink (2025)**  
+- Migrated platform from WordPress to React  
+- Improved performance and responsiveness  
+- Optimized deployment and scalability  
+
+---
+
+### Contact
+- Email: sohomm918@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sohom-mukherjee-06a93230b/  
