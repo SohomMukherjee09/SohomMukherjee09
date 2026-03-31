@@ -18,9 +18,9 @@ Building scalable web applications and AI-powered solutions with a focus on perf
 ### Experience
 
 **Full Stack Developer Intern – Gaialink (2025)**  
-- Migrated platform from WordPress to React  
-- Improved performance and responsiveness  
-- Optimized deployment and scalability  
+- Migrated platform from WordPress to React, improving performance and responsiveness
+- Built scalable features and optimized deployment pipelines
+- Enhanced SEO and increased user engagement
 
 ---
 
