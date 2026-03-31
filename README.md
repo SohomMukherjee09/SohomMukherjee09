@@ -1,7 +1,7 @@
 ## Sohom Mukherjee
 
 Full Stack Developer | B.Tech CSE (IoT, Cyber Security & Blockchain)  
-Heritage Institute of Technology, Kolkata  
+Heritage Institute of Technology, Kolkata  | CGPA - 9.61
 
 Building scalable web applications and AI-powered solutions with a focus on performance, clean architecture, and real-world impact.
 
