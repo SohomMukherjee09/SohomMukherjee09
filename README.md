@@ -2,7 +2,6 @@
 
 Full Stack Developer | B.Tech CSE (IoT, Cyber Security & Blockchain)  
 Heritage Institute of Technology, Kolkata  | CGPA - 9.61
-https://drive.google.com/file/d/1a3yYZ1Mu6B-9v79geNXXbhU2ZAIhimRm/view?usp=sharing
 Building scalable web applications and AI-powered solutions with a focus on performance, clean architecture, and real-world impact.
 
 ---
